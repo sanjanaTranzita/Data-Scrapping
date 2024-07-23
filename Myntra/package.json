@@ -1,0 +1,21 @@
+{
+  "name": "myntra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopcircuit-ai/reaper.git"
+  },
+  "private": true,
+  "dependencies": {
+    "json-as-xlsx": "^2.5.6",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "timers": "^0.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
